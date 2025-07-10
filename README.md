@@ -26,3 +26,6 @@ Finally, the notebook may include model tuning using hyperparameter optimization
 In essence, this notebook serves as a self-contained, practical example of implementing a machine learning classification task. It clearly illustrates all stages—from data loading and EDA to model training, testing, and evaluation—making it a valuable resource for learners and practitioners alike.
 
 #OUTPUT
+<img width="800" height="600" alt="Image" src="https://github.com/user-attachments/assets/1a403306-f170-4b08-905a-96495a744c51" />
+
+<img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/67873d0d-692b-4c0c-90d2-d0b6bcaa1448" />
